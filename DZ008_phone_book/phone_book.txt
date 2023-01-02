@@ -1,0 +1,4 @@
+Stone;1111111111;GeekBrains
+Diana;2222222222;GeekBrains
+Olga;3333333333;I am
+Kate;4444444444;sister
